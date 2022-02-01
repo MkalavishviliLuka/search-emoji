@@ -1,6 +1,6 @@
 {
-  "homepage": "https://mkalavishvililuka.github.io/search-emoji/",
-  "name": "emoji-search",
+  "name": "search-emoji",
+  "homepage": "https://mkalavishvililuka.github.io/search-emoji",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
